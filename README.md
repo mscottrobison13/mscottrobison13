@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mscottrobison13
-- 👀 I’m interested in learning both front end web development.
+- 👀 I’m interested in learning web development.
 - 🌱 I’m currently learning html, css, and JS.
-- 💞️ I’m looking to collaborate on any front end projects.
+- 💞️ I’m looking to collaborate on any web development projects.
 - 📫 How to reach me mscottrobison@gmail.com
 
 <!---
